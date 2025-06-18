@@ -34,16 +34,16 @@ The program read inputs from the “input.txt” file.
 
 
 Input file may or may not include multiple runs for the problem, program must adjust accordingly to input file dynamically.
-•	Base cost
-•	Cashier count
-•	Max types Per Cashier
-•	Transactions
-For example:
-3
-2
-2
-Type 1, Type 2, Type 3, Type 1, Type 1, Type 1, Type 2
-4
-2
-1
-Type 2, Type 2, Type 1, Type 1, Type 4, Type 1
+* Base cost
+* Cashier count
+* Max types Per Cashier
+* Transactions
+*For example:
+*3
+*2
+*2
+*Type 1, Type 2, Type 3, Type 1, Type 1, Type 1, Type 2
+*4
+*2
+*1
+*Type 2, Type 2, Type 1, Type 1, Type 4, Type 1
